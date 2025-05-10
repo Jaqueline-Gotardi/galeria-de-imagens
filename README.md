@@ -1,4 +1,5 @@
 PROJETO 1 - GALERIA DE PINTURAS
+
 Este é um projeto simples de galeria de imagens que exibe algumas pinturas famosas, como "Starry Night" de Vincent Van Gogh, de maneira interativa e responsiva.
 
 DESCRIÇÃO:
