@@ -1,0 +1,28 @@
+/* ESTILIZAÇÃO PARA DESKTOP */
+
+@media (min-width: 819px)  {
+    .container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        background-color: antiquewhite;
+    }
+
+    .lista-imagens { 
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+    .imagem-com-texto {
+        display: inline-block;
+        flex-direction: row;
+        padding: 5px;
+    }
+
+    .tamanho-imagem {
+    display: flex;
+    width: 12.1em;
+    height: 20em;
+}
+}
