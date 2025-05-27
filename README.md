@@ -12,7 +12,9 @@ Este é um projeto simples de galeria de imagens que exibe algumas pinturas famo
 ## FUNCIONALIDADES:
 
 ✅ Exibição de imagens com título e descrição.
+
 ✅ Layout responsivo adaptando-se a diferentes dispositivos (mobile-first).
+
 ✅ Design simples e funcional, com foco na organização das imagens.
 
 ---
